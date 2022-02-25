@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32210.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfImageMemoryLeakDemo", "WpfImageMemoryLeakDemo\WpfImageMemoryLeakDemo.csproj", "{8ACF1656-6DE0-46CB-969B-B10748DEF0C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ACF1656-6DE0-46CB-969B-B10748DEF0C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ACF1656-6DE0-46CB-969B-B10748DEF0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ACF1656-6DE0-46CB-969B-B10748DEF0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ACF1656-6DE0-46CB-969B-B10748DEF0C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BD028D7-5EEE-4648-995C-A4791DF0A7D6}
+	EndGlobalSection
+EndGlobal
